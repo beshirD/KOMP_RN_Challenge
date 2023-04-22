@@ -12,7 +12,7 @@ import MainLayout from './src/layouts/MainLayout';
 
 function App(): JSX.Element {
   return (
-    <ApplicationProvider {...eva} theme={eva.light}>
+    <ApplicationProvider {...eva} theme={eva.dark}>
       <MainLayout />
     </ApplicationProvider>
   );
