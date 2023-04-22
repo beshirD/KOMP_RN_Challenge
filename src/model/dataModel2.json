@@ -1,0 +1,83 @@
+{
+    "name": "Mean, Median, & SD",
+    "fields": {
+        "a": {
+            "label": "A",
+            "type": "number",
+            "readOnly": false,
+            "calculate": null
+        },
+        "b": {
+            "label": "B",
+            "type": "number",
+            "readOnly": false,
+            "calculate": null
+        },
+        "c": {
+            "label": "C",
+            "type": "number",
+            "readOnly": false,
+            "calculate": null
+        },
+        "d": {
+            "label": "D",
+            "type": "number",
+            "readOnly": false,
+            "calculate": null
+        },
+        "e": {
+            "label": "E",
+            "type": "number",
+            "readOnly": false,
+            "calculate": null
+        },
+        "f": {
+            "label": "F",
+            "type": "number",
+            "readOnly": false,
+            "calculate": null
+        },
+        "g": {
+            "label": "G",
+            "type": "number",
+            "readOnly": false,
+            "calculate": null
+        },
+        "h": {
+            "label": "H",
+            "type": "number",
+            "readOnly": false,
+            "calculate": null
+        },
+        "i": {
+            "label": "I",
+            "type": "number",
+            "readOnly": false,
+            "calculate": null
+        },
+        "j": {
+            "label": "k",
+            "type": "number",
+            "readOnly": false,
+            "calculate": null
+        },
+        "mean": {
+            "label": "Mean",
+            "type": "number",
+            "readOnly": true,
+            "calculate": "mean"
+        },
+        "median": {
+            "label": "Meadian",
+            "type": "number",
+            "readOnly": true,
+            "calculate": "meadian"
+        },
+        "sd": {
+            "label": "Standard Deviation",
+            "type": "number",
+            "readOnly": true,
+            "calculate": "sd"
+        }
+    }
+}
